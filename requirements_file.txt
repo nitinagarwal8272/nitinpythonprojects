@@ -1,0 +1,33 @@
+# Twitter Sentiment Analysis Requirements
+# Install with: pip install -r requirements.txt
+
+# Twitter API client library
+tweepy>=4.14.0
+
+# Natural language processing and sentiment analysis
+textblob>=0.17.1
+
+# Regular expressions (built-in Python module, included for completeness)
+# re - standard library
+
+# Additional recommended packages for enhanced functionality
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Optional: For data visualization (uncomment if needed)
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+
+# Optional: For enhanced text processing (uncomment if needed)
+# nltk>=3.7
+# vaderSentiment>=3.3.2
+
+# Optional: For saving results to different formats (uncomment if needed)
+# openpyxl>=3.0.9
+# xlsxwriter>=3.0.3
+
+# Development and testing dependencies (uncomment for development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# flake8>=5.0.0
+# black>=22.0.0
